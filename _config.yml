@@ -31,26 +31,26 @@ disqus_shortname:   taylantatli
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  #plus:            #username
+  #plus:            #hackingtiger
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              hackingtiger942@gmail.com
 twitter:            username
-facebook:           username
-github-url:         username
+facebook:           tigersid1997
+github-url:         sadsouler
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          mistrysiddh
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
@@ -59,7 +59,7 @@ steam:              username
 #flickr:            username
 #codepen:           username
 #keybase:           username
-#xmpp:              username@server.com
+xmpp:               darkskull@xmpp.jp
 #hackernews:        username
 
 # Gems
@@ -70,7 +70,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://github.com/sadsouler
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
